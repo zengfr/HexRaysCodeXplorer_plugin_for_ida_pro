@@ -5,8 +5,7 @@ Hex-Rays Decompiler plugin for better code navigation
 
 - 1 To install, copy the HexRaysCodeXplorer.dll/HexRaysCodeXplorer64.dll of the plugins directory in this repository to your %PROGRAMFILES%\IDA\plugins folder. 
 - 2 open ida ,Right-click context menu in the Pseudocode window shows CodeXplorer plugin commands.
-- 3 open winhex compare result diff text file.
-- 4 waitting plugin process end finished
+
 
 ![Pseudocode window shows CodeXplorer plugin commands](https://github.com/REhints/HexRaysCodeXplorer/blob/master/img/1.jpg)
 
